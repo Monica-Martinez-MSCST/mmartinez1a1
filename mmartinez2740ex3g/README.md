@@ -1,0 +1,1 @@
+COMC2740 Exercise 3G: Ch6 modify 3E: add ReadPerson class to read Person objs from file.
